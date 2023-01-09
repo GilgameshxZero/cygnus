@@ -1,3 +1,9 @@
+<!-- emilia-snapshot-properties
+Blackfeather Coast
+2020/09/01
+cygnus
+emilia-snapshot-properties -->
+
 Father,
 
 I know no songs written of hunger.
@@ -41,7 +47,6 @@ It turns out they weren't as interested in me as they were in Rigel. I had known
 I don't know what you have planned for me in this cold, harsh land. When I pushed off the coast of Alveria three nights ago, I vowed to leave it all behind—that as comfortable as I was there, learning the truth about you was much more important. But now, lying awake in the cold bed of a stranger, realizing that I know little to nothing about even the person sleeping right next to me, I wonder if it really was the right choice.
 
 <div class="no-indent align-right">
-
 
 Sincerely,
 Aria

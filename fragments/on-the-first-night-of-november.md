@@ -1,3 +1,9 @@
+<!-- emilia-snapshot-properties
+On the First Night of November
+2020/09/01
+cygnus
+emilia-snapshot-properties -->
+
 Polished dark oak swings open upon well-lubricated hinges. Amidst perfumes of alstroemeria wistful of the sunglow of summers past, he enters, tired but focused eyes peering through crow's feet and once-luscious hair. He is a man without need for introductions.
 
 ---

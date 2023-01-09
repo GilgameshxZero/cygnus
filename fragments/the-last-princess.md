@@ -1,3 +1,9 @@
+<!-- emilia-snapshot-properties
+The Last Princess
+2021/04/01
+cygnus
+emilia-snapshot-properties -->
+
 `14635.930482`
 
 A bronze incandescence pierces through solitude.
