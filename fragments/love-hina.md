@@ -54,6 +54,7 @@ She winked. It was a wink that stuck with me all the way until Saturday night, a
 Finally, Saturday night had come. I had trekked across campus to arrive at her cozy single on dormitory row. Sitting right beside me, Hina's reflective green eyes drifted up towards the ceiling, the light from her desk lamp blazing a path around her pupil like the sun on a hot day in the desert. Instinctively, I met her gaze upon her ceiling, a white drywall colored like the orange sunset by the warmness of her presence as it seemed to diffuse into the air through the steam from her cup of hot chocolate. Her room was a welcome repose from the cold outside.
 
 ![](love-hina.md-assets/2020-05-25-23-13-03.png)
+*<sup>[1]</sup>*
 
 "And what do you want to be a part of your college experience, Gil?"
 
@@ -71,8 +72,12 @@ Slowly, I felt her hair graze my neck; a tickle, as playful, as innocent, as a b
 
 It was then that I became aware of how thin, how simple her sweater was, the only obstacle in my eye's path to her body. Hina knew, had known, that I was watching, waiting for glimpses of her nakedness through the hand-woven holes of her black sweater her grandmother must have crafted for her.
 
-"If your program can run in under 2 seconds, I'll give you a reward," she giggled, pretending not to notice as her sweater loosened around her shoulders. My fingers raced across the keyboard, hastily searching for the `--fast-math` compiler flag to parallelize floating-pointer operations. Hina fingered the run command herself. And… aha! I was finally done.
+"If your program can run in under 2 seconds, I'll give you a reward," she giggled, pretending not to notice as her sweater loosened around her shoulders. My fingers raced across the keyboard, hastily searching for the `-ffast-math` compiler flag to parallelize floating-pointer operations. Hina fingered the run command herself. And… aha! I was finally done.
 
 Breasts scarcely covered now, her right hand brushed long, sensual hair behind shaped ears as she leaned in, her lips glistening wet against the warm glow, an oasis amidst the blizzard now brewing outside. I relinquished, a flow of euphoria through my veins as I, too, closed my eyes and lifted my hands from the keyboard to comply with her desire for the rest of our night together.
 
 No additional quad-trees were constructed that night.
+
+---
+
+1. Illustration by Sasuga Kei, author of Domestic Girlfriend, the inspiration for this piece.
