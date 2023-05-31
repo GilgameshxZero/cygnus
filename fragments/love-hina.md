@@ -1,3 +1,9 @@
+<!-- emilia-snapshot-properties
+Love, Hina
+2020/05/25
+cygnus
+emilia-snapshot-properties -->
+
 # Love, Hina
 
 Gilgamesh
