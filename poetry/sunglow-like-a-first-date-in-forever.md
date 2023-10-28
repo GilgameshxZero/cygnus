@@ -1,10 +1,10 @@
 # sunglow, like a first date in forever
 
-September 20, 2020
+October 27, 2023
 ❄
 
 from one creator to another
-do you ever fall in love with you create?
+do you ever fall in love with something you create?
 a desiccated war zone, a burning heat boiling my skin
 or a freezing finality, a graveyard at the edge of the world
 i could only create feelings until i met you
