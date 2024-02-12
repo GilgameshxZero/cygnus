@@ -1,3 +1,14 @@
+<!-- emilia-snapshot-properties
+Under the Bridge
+2021/01/01
+cygnus
+emilia-snapshot-properties -->
+
+#
+
+before it all crashed down
+❄
+
 The kingslayers came in winter.
 I was seven, and the Astrum of my mind
 was stitched from black snow, and the stories you told,

@@ -1,6 +1,12 @@
+<!-- emilia-snapshot-properties
+Sunglow, Like a First Date in Forever
+2020/09/20
+cygnus
+emilia-snapshot-properties -->
+
 # sunglow, like a first date in forever
 
-October 27, 2023
+September 20, 2020
 ❄
 
 from one creator to another

@@ -1,3 +1,14 @@
+<!-- emilia-snapshot-properties
+Away in Arpeggio
+2022/09/01
+cygnus
+emilia-snapshot-properties -->
+
+#
+
+an autumn day, 2022, in New York City
+❄
+
 Gone, and you were
 away in arpeggio, sliding down
 from the tower, a shadow sliced in two;
