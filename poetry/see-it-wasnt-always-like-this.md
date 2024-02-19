@@ -4,6 +4,11 @@ See, It Wasn’t Always Like This
 cygnus
 emilia-snapshot-properties -->
 
+# See, It Wasn’t Always Like This
+
+November 29, 2021
+❄
+
 See, it wasn’t always like this.
 The enforcer of consistency, the mellow of stigma:
 thusly,

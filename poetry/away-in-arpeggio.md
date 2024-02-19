@@ -4,9 +4,9 @@ Away in Arpeggio
 cygnus
 emilia-snapshot-properties -->
 
-#
+# Away in Arpeggio
 
-an autumn day, 2022, in New York City
+Autumn, 2021
 ❄
 
 Gone, and you were

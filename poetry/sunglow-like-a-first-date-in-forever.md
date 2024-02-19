@@ -1,5 +1,5 @@
 <!-- emilia-snapshot-properties
-Sunglow, Like a First Date in Forever
+sunglow, like a first date in forever
 2020/09/20
 cygnus
 emilia-snapshot-properties -->
