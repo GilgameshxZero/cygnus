@@ -1,7 +1,10 @@
 {
+	"breadcrumbs.enabled": false,
+
 	"markdown.styles": [".vscode/default.css"],
 
 	"[markdown]": {
-		"editor.fontFamily": "'EB Garamond', Georgia, serif"
+		"editor.fontFamily": "'EB Garamond', Georgia, serif",
+		"editor.letterSpacing": 0
 	}
 }

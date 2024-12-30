@@ -10,15 +10,15 @@ The long-lost love of the Sovereign, Eva comes from the race of seafarers, who r
 
 ## Aria
 
-A human girl in living in Year 374.
+Girl, Alveria, Year 374.
 
 The first narrator, Aria is a quiet, thoughtful, and dreamy girl from Fonte. She serves as librarian in Fonte until an event pushes her to travel to capital city Erlija. Aria seeks a sense of purpose, a sense of belonging, and someone who can tell her the truth of why she was born or created.
 
 ## November
 
-A human male living in Year 317.
+Boy, Alveria, Year 317.
 
-The second major narrator, November hails from Felys, his Alverian name derived from a wristwatch before he knew the tongue well. Talented but impulsive, he joins the Commerce Guild on a miracle, and later, follows Rigel to establish the revolutionaries.
+The second narrator, November hails from Felys, his Alverian name derived from a wristwatch before he knew the tongue well. Talented but impulsive, he joins the Commerce Guild on a miracle, and later, follows Rigel to establish the revolutionaries.
 
 ## Charlotte
 
