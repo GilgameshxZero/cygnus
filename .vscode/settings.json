@@ -1,3 +1,8 @@
 {
 	"breadcrumbs.enabled": false,
+	"[markdown]": {
+		"editor.fontFamily": "'EB Garamond', KaiTi, 'Noto Emoji', serif",
+		"editor.wordWrapColumn": 60,
+		"editor.wordWrap": "bounded"
+	}
 }
